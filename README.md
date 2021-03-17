@@ -39,7 +39,7 @@ Ce lab est un exercice du cours "Débuter avec Git et Github" dispensé par Nico
 ## Merge d'une branche sur master
 
 1. Faire un `git checkout` sur master
-2. Faire une modification dans le même fichier que celui édité dans la branche, mais pas au même endroit.
+2. Faire une modification dans le même fichier que celui édité dans la branche, mais pas au même endroit. /* commentaire 2 */
 3. Faire un `git diff`
 4. Faire un `git add` et `git commit` et regarder la page
 5. Faire un `git checkout` sur la branche et regarder la page.
