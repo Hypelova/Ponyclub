@@ -17,7 +17,7 @@ Ce lab est un exercice du cours "Débuter avec Git et Github" dispensé par Nico
 5. Refaire un `git status`
 6. Faire un `git commit`
 7. Refaire un `git status`
-8. Faire une modification dans un des fichiers
+8. Faire une modification dans un des fichiers /* commentaire */ 
 9. Refaire un `git status`
 10. Faire un `git diff`
 11. Faire un `git add` et `git commit`
